@@ -6,4 +6,4 @@ def oxford_comma(array)
   string
 end
 oxford_comma(array)
- array[last]
+ array.last
