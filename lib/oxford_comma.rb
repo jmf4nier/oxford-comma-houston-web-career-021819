@@ -4,14 +4,10 @@ def oxford_comma(array)
  last_plus_and = "and " + oxford
  array.push(last_plus_and)
  string = array.join(", ")
-#  string
- 
-  
-  
+ string
 end
 oxford_comma(array)
  
  
  
  
-# 
