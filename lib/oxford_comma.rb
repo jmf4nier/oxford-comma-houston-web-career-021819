@@ -1,7 +1,7 @@
 array = ["fiddleheads","okra","kohlrabi"]
 def oxford_comma(array)
  oxford = array.pop
- new_array = "and " + oxford
+ last_plus_and = "and " + oxford
   
   
 end
