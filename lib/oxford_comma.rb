@@ -9,6 +9,8 @@ def oxford_comma(array)
  elsif array.size == 2
   string = array.join(" and ")
   p string
+ else
+   array.join
  end    
   
 end
