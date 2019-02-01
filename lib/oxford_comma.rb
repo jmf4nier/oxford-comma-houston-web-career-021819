@@ -8,6 +8,8 @@ def oxford_comma(array)
   p string
  elsif array.size == 2
   string = array.join(", ")
+  p string
+ end    
   
 end
 oxford_comma(array)
