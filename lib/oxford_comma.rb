@@ -6,4 +6,4 @@ def oxford_comma(array)
   string
 end
 oxford_comma(array)
- array.insert[,and 2]
+ array.insert[2, and]
