@@ -1,4 +1,4 @@
-array = ["fiddleheads","okra"]
+array = ["fiddleheads"]
 def oxford_comma(array)
  if array.size > 2
   oxford = array.pop
