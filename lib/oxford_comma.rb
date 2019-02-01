@@ -1,4 +1,4 @@
-array = ["fiddleheads","okra","kohlrabi"]
+array = ["fiddleheads","okra","kohlrabi", "something else"]
 def oxford_comma(array)
  oxford = array.pop
  last_plus_and = "and " + oxford
